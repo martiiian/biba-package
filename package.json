@@ -1,6 +1,6 @@
 {
   "name": "biba-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just martiiian's biba-package",
   "main": "index.js",
   "repository": "git@github.com:martiiian/biba-package.git",
